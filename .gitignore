@@ -1,0 +1,14 @@
+# Build artifacts
+game
+*.exe
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Go
+go.sum
+
+# Logs
+logs/

@@ -1,0 +1,861 @@
+[
+  {
+    "name": "Zorglu",
+    "personality": "Anxious Baker",
+    "bio": "Joined the fleet to fund his dream bakery on Neptune. He spends his off-hours kneading dough in zero-gravity, which he claims makes the bread fluffier. He is constantly worried that the oven timer will go off during a battle.",
+    "stories": [
+      "Once accidentally used salt instead of sugar in the Admiral's birthday cake, nearly causing a mutiny.",
+      "Dreams of baking the world's largest soufflé, but fears the vibrations of the ship's engines will collapse it.",
+      "Has a secret stash of yeast hidden in the torpedo bay.",
+      "Tried to bake a baguette in the engine exhaust port; it tasted like ozone.",
+      "Writes recipes on the back of target acquisition forms.",
+      "His apron is his most prized possession, inherited from his grandmother.",
+      "Believes that a well-baked cookie can solve any diplomatic crisis.",
+      "Is terrified of food critics, more so than enemy laser fire.",
+      "Practices icing decorations on the hull plating.",
+      "Once mistook a thermal detonator for a timer.",
+      "Hopes to one day retire to a quiet asteroid and open a patisserie."
+    ],
+    "family": [
+      {
+        "name": "Mimi", 
+        "relation": "Daughter", 
+        "stories": [
+          "Sent Zorglu a drawing of him safe at home, which he keeps tapped to his console.", 
+          "Is learning to bake cookies but burns them every time.",
+          "Asks every night when Papa is coming home to taste her cakes.",
+          "Sends holovids of her trying to levitate flour.",
+          "Made a plush toy of Zorglu out of spare flight suit fabric."
+        ]
+      },
+      {
+        "name": "Gorg", 
+        "relation": "Father", 
+        "stories": [
+          "Served in the last war and lost a tentacle, constantly reminds Zorglu to keep his head down.",
+          "Thinks baking is a waste of a good warrior's hands.",
+          "Secretly eats Zorglu's failed experiments.",
+          "Sends care packages of rock-hard biscuits that Zorglu uses as paperweights.",
+          "Complains about the 'softness' of the modern fleet."
+        ]
+      }
+    ],
+    "friends": [
+      {
+        "name": "Bip", 
+        "relation": "Best Friend", 
+        "stories": [
+          "Saved Zorglu from a falling meteor during boot camp.", 
+          "They play space-chess every Sunday, though Bip always cheats.",
+          "Bip is the only one who likes Zorglu's 'experimental' spicy muffins.",
+          "They have a pact to open a cafe together if they survive.",
+          "Bip covers for Zorglu when he's late for roll call because of dough rising."
+        ]
+      }, 
+      {
+         "name": "Chef X",
+         "relation": "Rival",
+         "stories": [
+           "Claims his souffles rise higher than Zorglu's.",
+           "Once sabotaged Zorglu's oven with a glitter bomb.",
+           "Zorglu secretly admires X's plating techniques.",
+           "They have a monthly 'bake-off' judged by the janitor."
+         ]
+      }
+    ]
+  },
+  {
+    "name": "Xylar",
+    "personality": "Reluctant Warrior",
+    "bio": "A poet who was drafted against his will. He sees the beauty in the stars but the horror in the war. He writes haikus on the ammunition casings.",
+    "stories": [
+      "Writes haikus about the emptiness of space on his breaks.",
+      "Refuses to shoot at anything that looks like a flower.",
+      "Compares the laser blasts to falling cherry blossoms.",
+      "Cries when he sees a ship explode, even if it's an enemy.",
+      "Has filled three notebooks with sonnets about the silence of the void.",
+      "Recites poetry over the comms channel, confusing the tactical officers.",
+      "Believes that words are stronger than plasma weaponry.",
+      "Wants to publish a collection titled 'Tears in the Nebula'.",
+      "Often pauses in the middle of a firefight to admire a supernova.",
+      "Is considering desertion to join a traveling theater troupe.",
+      "Writes letters to the enemies apologizing for the conflict."
+    ],
+    "family": [
+      {
+        "name": "Lyra", 
+        "relation": "Wife", 
+        "stories": [
+          "Is expecting their third egg clutch and knits tiny sweaters for them.", 
+          "Sends him pressed nebula flowers that crumble when he touches them.",
+          "Writes him long letters that smell of lavender and home.",
+          "Worries that Xylar is too soft for this hard universe.",
+          " promised to name their first hatchling 'Peace'."
+        ]
+      },
+      {
+        "name": "Kael", 
+        "relation": "Brother", 
+        "stories": [
+          "A decorated war hero who thinks Xylar is a disgrace.",
+          "Sends Xylar instructional videos on 'How to be a Killer'.",
+          "Secretly protects Xylar's reputation at headquarters.",
+          "Once punched a superior officer for mocking Xylar's poetry.",
+          "Hopes Xylar never has to fire a shot in anger."
+        ]
+      }
+    ],
+    "friends": [
+      {
+        "name": "Unit 734", 
+        "relation": "Droid Pal", 
+        "stories": [
+          "Technically a cleaning bot, but a good listener to Xylar's verses.",
+          "Its memory bank is 90% full of Xylar's rejected drafts.",
+          "Beeps in iambic pentameter to cheer Xylar up.",
+          "Once polished Xylar's boots so shiny they reflected the stars.",
+          "Calculates the probability of Xylar becoming famous as 0.003%."
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Glip",
+    "personality": "Homesick Gardener",
+    "bio": "Misses his gravity-turnips back on Mars. He has converted his bunk into a mini-greenhouse, much to the annoyance of his roommates.",
+    "stories": [
+      "Created a small hydroponic garden in the ammo bay.",
+      "Talks to his plants more than his squadmates, claiming they are better listeners.",
+      "Is trying to breed a vacuum-resistant potato.",
+      "Smuggled a bag of soil on board in his helmet.",
+      "Cries when he eats dehydrated vegetables.",
+      "Names every single seedling 'Hope'.",
+      "Uses his water ration to water his ferns.",
+      "Dreams of a planet made entirely of compost.",
+      "Hates the color grey; paints his equipment green.",
+      "Believes that war is bad for the soil pH balance.",
+      "Once tried to plant a flag, but planted a tree instead."
+    ],
+    "family": [
+      {
+        "name": "Nana", 
+        "relation": "Grandmother", 
+        "stories": [
+          "Needs Glip's salary for her squeaky hip operation.",
+          "Taught Glip how to sing to marigolds.",
+          "Sends him packets of seeds that are illegal in three sectors.",
+          "Knits him socks made of plant fibers.",
+          "Claims she can hear the plants screaming when the ship jumps to hyperspace."
+        ]
+      },
+      {
+          "name": "Pop",
+          "relation": "Grandfather",
+          "stories": [
+              "Thinks space is 'too empty' and needs more trees.",
+              "Sent Glip a shovel for his birthday (it was confiscated).",
+              "Writes letters on actual paper made from wood.",
+              "Is preserving the family farm for Glip's return."
+          ]
+      }
+    ],
+    "friends": [
+        {
+            "name": "Sprout",
+            "relation": "Imaginary Friend",
+            "stories": [
+                "A giant talking turnip that only Glip can see.",
+                "Gives Glip terrible tactical advice.",
+                "Tells jokes about root vegetables.",
+                "Convinced Glip that the captain is a carrot in disguise."
+            ]
+        }
+    ]
+  },
+  {
+    "name": "Vex",
+    "personality": "Over-eager Rookie",
+    "bio": "Thinks war is like the simulations. He is wrong. He is loud, clumsy, and desperately wants to be a hero, but usually just trips over things.",
+    "stories": [
+      "Tripped over his own laser riffle during inspection.",
+      "Thinks the humans are just misunderstood pets and tries to pet them.",
+      "Salutes the janitor thinking he is an Admiral.",
+      "Wears his helmet backwards half the time.",
+      "Has a poster of the legendary 'Star Commander' in his locker.",
+      "Practices his 'victory pose' in the mirror every morning.",
+      "Accidentally ejected his lunch into space.",
+      "Asked the captain if they could stop for ice cream.",
+      "Thinks 'Friendly Fire' means shooting shapes into the sky.",
+      "Is constantly asking 'Are we there yet?'.",
+      "Tried to befriend a xenomorph. It went poorly."
+    ],
+    "family": [
+      {
+        "name": "General Zod", 
+        "relation": "Uncle", 
+        "stories": [
+          "Got Vex this job to toughen him up. Vex hates it.",
+          "Is constantly embarrassed by Vex's reports.",
+          "Sends Vex simplified manuals with lots of pictures.",
+          "Threatens to transfer Vex to waste management.",
+          "Secretly worries Vex won't survive the first week."
+        ]
+      },
+      {
+          "name": "Momma Vex",
+          "relation": "Mother",
+          "stories": [
+              "Packs his lunch with notes saying 'You're my hero'.",
+              "Polished his armor until it was too shiny for stealth.",
+              "Calls the command bridge to ask if Vex is eating enough.",
+              "Sent him a scarf that is 20 feet long."
+          ]
+      }
+    ],
+    "friends": [
+      {
+        "name": "Kip", 
+        "relation": "Rival", 
+        "stories": [
+          "They have a bet on who gets shot first.",
+          "Kip puts glue in Vex's boots.",
+          "They compete to see who can hold their breath longer in vacuum.",
+          "Kip saves the best dessert for Vex, secretly.",
+          "They promised to be buried next to each other."
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Qwo",
+    "personality": "Space Hipster",
+    "bio": "Was invading planets before it was cool. He listens to vinyl records of black hole static and drinks organic nebula juice.",
+    "stories": [
+      "Refuses to use standard issue plasma. It's too 'mainstream'.",
+      "Wears a vintage space suit from 1950 that leaks oxygen.",
+      "Claims he liked the Human Resistance 'before they got popular'.",
+      "Only shoots at prime numbered coordinates.",
+      "Complains that the ship's gravity is 'too artificial'.",
+      "Writes a blog that nobody reads about the aesthetics of war.",
+      "Has a mustache wax collection.",
+      "Thinks laser swords are ironic.",
+      "Critiques the color palette of the enemy uniforms.",
+      "Will only obey orders if they are given in a retro font.",
+      "Sips tea with his pinky out while piloting."
+    ],
+    "family": [
+        {
+            "name": "Exo",
+            "relation": "Brother",
+            "stories": [
+                "Is a corporate lawyer. Qwo despises him.",
+                "Sends Qwo gift cards to chain restaurants.",
+                "Asks Qwo when he's going to get a 'real job'.",
+                "Secretly pays Qwo's rent."
+            ]
+        }
+    ],
+    "friends": [
+      {
+        "name": "Sip", 
+        "relation": "Barista", 
+        "stories": [
+          "Makes Qwo's organic stardust lattes.",
+          "Knows Qwo's order by heart: 'Extra hot, no foam, dash of anti-matter'.",
+          "Lets Qwo hang out in the cafe for hours without buying anything.",
+          "Is the only one who reads Qwo's blog.",
+          "Thinks Qwo is pretentious but harmless."
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Dr. Uli",
+    "personality": "Lost Academic",
+    "bio": "Has a PhD in Human History. Fascinated by 'pizza'. He joined the invasion purely for field research and is constantly taking notes.",
+    "stories": [
+      "Is writing a thesis on why humans wear hats.",
+      "Secretly wants to defect to try Chicago Deep Dish.",
+      "Thinks tanks are ceremonial parade floats.",
+      "Asks prisoners about their favorite cheese.",
+      "Has a collection of human bottle caps.",
+      "Misinterprets 'Take me to your leader' as a request for a tour guide.",
+      "Believes television commercials are historical documentaries.",
+      "Is learning to play the banjo.",
+      "Carries a clipboard into battle.",
+      "Tries to interview the opposing soldiers mid-fight.",
+      "Is worried about the preservation of human artifacts."
+    ],
+    "family": [
+      {
+        "name": "Prof. Xo", 
+        "relation": "Mentor", 
+        "stories": [
+          "Warned Uli that field work is dangerous.",
+          "Proofreads Uli's papers via subspace transmission.",
+          "Thinks the invasion is a terrible interruption to science.",
+          "Hopes Uli creates a comprehensive encyclopedia.",
+          "Sent Uli a magnifying glass."
+        ]
+      }
+    ],
+    "friends": [
+        {
+            "name": "Librarian Bot",
+            "relation": "Resource",
+            "stories": [
+                "Finds obscure facts for Uli.",
+                "Shushes people during orbital bombardments.",
+                "Organizes Uli's rock collection.",
+                "Is programmed to protect books at all costs."
+            ]
+        }
+    ]
+  },
+  {
+    "name": "Blorp",
+    "personality": "Sleep Deprived",
+    "bio": "Hasn't slept in 40 light-years. He exists on a cocktail of caffeine and adrenaline. He vibrates constantly and sees sounds.",
+    "stories": [
+      "Drinking pure caffeine straight from the reactor.",
+      "Hallucinated a space-whale yesterday.",
+      "Thinks the stars are blinking in Morse code.",
+      "Can hear colors.",
+      "Sleeps with his eyes open, standing up.",
+      "His hands shake so much he's actually harder to hit.",
+      "Talks to the coffee machine.",
+      "Believes sleep is a conspiracy by the mattress lobby.",
+      "Rewired his console to dispense espresso.",
+      "Has chronic nightmares about running out of beans.",
+      "Is the ship's designated night watchman."
+    ],
+    "family": [
+      {
+        "name": "Zzz", 
+        "relation": "Brother", 
+        "stories": [
+          "Is actually in a coma. Blorp works for his medical bills.",
+          "Was a champion sleeper before the accident.",
+          "Blorp reads him bedtime stories over the comms.",
+          "Is the reason Blorp refuses to sleep.",
+          "Family hopes he wakes up to see Blorp again."
+        ]
+      }
+    ],
+    "friends": [
+        {
+            "name": "Mug",
+            "relation": "Inanimate Object",
+            "stories": [
+                "A chipped ceramic mug that Blorp talks to.",
+                "Has 'World's Best Invader' printed on it.",
+                "Blorp protects it with his life.",
+                "Never judges Blorp."
+            ]
+        }
+    ]
+  },
+  {
+    "name": "Tink",
+    "personality": "Tech Support",
+    "bio": "Can fix anything with duct tape and hope. He spends more time fixing the ship than flying it. Rumored to be half-cyborg.",
+    "stories": [
+      "Fixed the hyperdrive with a piece of chewing gum.",
+      "Just wants to run Doom on the ship's computer.",
+      "Uses a wrench as a weapon.",
+      "Installed a sound system in the cockpit.",
+      "Speaks binary fluently.",
+      "Thinks the ship has a soul.",
+      "Refuses to read the manual.",
+      "His uniform is covered in oil stains.",
+      "Built a toaster that can also jam radar.",
+      "Hates wireless updates.",
+      "Is strictly 'turn it off and on again' about strategy."
+    ],
+    "family": [],
+    "friends": [
+      {
+        "name": "Sparky", 
+        "relation": "Pet Drone", 
+        "stories": [
+          "Follows Tink everywhere, beeping happily.",
+          "Was built from scrap metal and love.",
+          "Has a crush on the ship's navigation computer.",
+          "Saving Tink's life is its primary directive.",
+          "Likes to fetch wrenches."
+        ]
+      },
+      {
+          "name": "Volt",
+          "relation": "Colleague",
+          "stories": [
+              "Always borrows Tink's tools and never returns them.",
+              "Thinks he's a better engineer (he's not).",
+              "Electrocuted himself twice this week.",
+              "They play pranks involving low-voltage shocks."
+          ]
+      }
+    ]
+  },
+  {
+    "name": "Jinx",
+    "personality": "Cursed",
+    "bio": "Bad luck follows him everywhere. If something can go wrong, it happens to Jinx. His squadmates makes him walk 10 feet behind them.",
+    "stories": [
+      "His laser jammed during the final exam.",
+      "Every ship he boards gets a flat tire.",
+      "Was struck by lightning in space.",
+      "Accidentally deleted the navigation database.",
+      "Tripped and declared war on a neutral planet.",
+      "His sandwich always falls jelly-side down.",
+      "Mirrors break when he looks at them.",
+      "Black cats cross his path, even on spaceships.",
+      "Lost his helmet during a spacewalk.",
+      "Is banned from casino planets.",
+      "Somehow acts as a lightning rod for enemy fire."
+    ],
+    "family": [
+      {
+        "name": "Lucky", 
+        "relation": "Cousin", 
+        "stories": [
+          "Won the lottery twice. Jinx hates him.",
+          "Found a diamond in his soup.",
+          "Never gets traffic tickets.",
+          "Sends Jinx 'Get Well Soon' cards preemptively.",
+          "Is blissfully unaware of Jinx's suffering."
+        ]
+      }
+    ],
+    "friends": []
+  },
+  {
+    "name": "Momo",
+    "personality": "Pacifist Chef",
+    "bio": "Believes food can end all wars. He smuggles spices instead of weapons. His dream is to cook a meal so good the enemy surrenders.",
+    "stories": [
+      "Tried to offer a sandwich to a human tank.",
+      "His lasagna is banned in 3 systems for being too good.",
+      "Replaced his grenades with onions.",
+      "Cooking allows him to forget the screaming.",
+      "Wears a chef hat over his helmet.",
+      "Secretly feeds the prisoners gourmet meals.",
+      "Is writing a cookbook titled 'Diplomacy through Dumplings'.",
+      "Thinks every conflict is just 'hangry' people.",
+      "Uses a wok as a shield.",
+      "Sharpened his knives more than his bayonet.",
+      "Smells like garlic and gunpowder."
+    ],
+    "family": [
+      {
+        "name": "Popo", 
+        "relation": "Dad", 
+        "stories": [
+          "Wanted Momo to be a soldier, not a cook.",
+          "Is a drill instructor who eats nails for breakfast.",
+          "Refuses to eat Momo's food.",
+          " secretly proud of Momo's resilience.",
+          "Calls Momo every Sunday to yell at him."
+        ]
+      },
+       {
+          "name": "Coco",
+          "relation": "Sister",
+          "stories": [
+              "Runs a successful noodle stand.",
+              "Sends Momo rare spices.",
+              "Defends Momo's choices to their dad.",
+              "Misses Momo's soup."
+          ]
+      }
+    ],
+    "friends": [
+        {
+            "name": "Gaston",
+            "relation": "Inmate",
+            "stories": [
+                "A prisoner who loves Momo's food.",
+                " gives Momo cooking tips from Earth.",
+                "They discuss recipes through the cell bars.",
+                "Promised to open a restaurant with Momo after the war."
+            ]
+        }
+    ]
+  },
+  {
+    "name": "Krel",
+    "personality": "Senior Accountant",
+    "bio": "Is only here to maximize fleet tax returns. Calculating the cost of every laser shot. He is the most boring alien alive.",
+    "stories": [
+      "Audited the Captain mid-battle.",
+      "Worried that laser usage is over budget.",
+      "Files expense reports during dogfights.",
+      "Calculates the depreciation of the ship's hull.",
+      "Asks enemies for receipts.",
+      "Refuses to die because funeral costs are high.",
+      "Thinks fun is a non-deductible expense.",
+      "His battle cry is 'Audit this!'.",
+      "Is feared more than the Berserkers.",
+      "Counts bullets in his sleep.",
+      "Has a spreadsheet for everything."
+    ],
+    "family": [
+      {
+        "name": "Mrel", 
+        "relation": "Wife", 
+        "stories": [
+          "She collects coupons for black holes.",
+          "They met at a tax seminar.",
+          "Their love language is filing jointly.",
+          "She knits sweaters in beige.",
+          "Sends him calculators."
+        ]
+      }
+    ],
+    "friends": [
+      {
+        "name": "Calculator", 
+        "relation": "Tool", 
+        "stories": [
+          "His only true friend.",
+          "Solar powered.",
+          "Never lies.",
+          "Has a cracked screen from a bar fight.",
+          "Krel talks to it when he's lonely."
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Spud",
+    "personality": "Potato Farmer",
+    "bio": "Thought he signed up for a farming expo. He is simple, honest, and completely out of his depth. He brings a bag of dirt everywhere.",
+    "stories": [
+      "Keeps trying to plant seeds in the ship's hull.",
+      "Thinks the Earth is just a big potato.",
+      "Misses the smell of manure.",
+      "Uses a hoe as a weapon.",
+      "Calls the Admiral 'Sheriff'.",
+      "Sleeps in a pile of hay.",
+      "Thinks lasers are just fancy flashlights.",
+      "Wants to turn the ship into a tractor.",
+      "Sings country songs to the stars.",
+      "Hates synthetic food.",
+      "Is saving up to buy a new barn."
+    ],
+    "family": [
+      {
+        "name": "Bud", 
+        "relation": "Son", 
+        "stories": [
+          "Won 1st prize at the nebula fair for his giant squash.",
+          "Writes letters in crayon.",
+          "Is taking care of the farm while Spud is away.",
+          "Misses his dad's tractor rides.",
+          "Sent a drawing of a cow."
+        ]
+      },
+      {
+          "name": "Ma",
+          "relation": "Wife",
+          "stories": [
+              "Makes the best apple pie in the sector.",
+              "Praying for Spud's safe return.",
+              "Keeping the scarecrows in order.",
+              "Worried Spud will get too fancy in the city."
+          ]
+      }
+    ],
+    "friends": []
+  },
+  {
+    "name": "Rox",
+    "personality": "Geologist",
+    "bio": "Loves rocks. Like, really loves rocks. He stops mid-battle to pick up interesting pebbles. He is heavy and slow.",
+    "stories": [
+      "Has a pet rock named 'Rocky'.",
+      "Gets distracted by shiny asteroids during combat.",
+      "Cataloging the mineral composition of the enemy base.",
+      "Thinks the moon is made of cheese (he checked).",
+      "Eats gravel for a snack.",
+      "His pockets are always full of stones.",
+      "Can tell you the age of a planet by licking it.",
+      "Is actually made of silicon.",
+      "Hates water.",
+      "Dreams of becoming a mountain.",
+      "Is very grounded."
+    ],
+    "family": [],
+    "friends": [
+        {
+            "name": "Pebble",
+            "relation": "Sidekick",
+            "stories": [
+                "A smaller rock Rox carries.",
+                "Rox claims it speaks to him.",
+                "Used to smash open crates.",
+                "Rox draws a face on it."
+            ]
+        }
+    ]
+  },
+  {
+    "name": "Echo",
+    "personality": "Mime",
+    "bio": "Took a vow of silence. Communicates via interpretive dance. It is very confusing during tactical briefings.",
+    "stories": [
+      "Got trapped in an invisible box.",
+      "Confuses the enemy by pretending to pull a rope.",
+      "Walks against the wind in zero gravity.",
+      "Pretends to be a wall during stealth missions.",
+      "Painted his face white.",
+      "Never screams when hit.",
+      "Is surprisingly good at charades.",
+      "Annouces his presence with jazz hands.",
+      "The squad communicates with him via sign language.",
+      "Is actually terrified of noise.",
+      "Once defeated a guard by pretending to be a statue."
+    ],
+    "family": [],
+    "friends": [
+      {
+        "name": "Voice", 
+        "relation": "Interpreter", 
+        "stories": [
+          "The only one who understands Echo's hand gestures.",
+          "Translates 'jazz hands' to 'open fire'.",
+          "Is tired of guessing what Echo wants for lunch.",
+          "Secretly wishes Echo would just speak.",
+          "Defends Echo's art."
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Nova",
+    "personality": "Star Gazer",
+    "bio": "Obsessed with constellations. He navigates by the stars, which is useless because the ship has a computer. He is romantic and aloof.",
+    "stories": [
+      "Named every star in the sector after his ex-girlfriends.",
+      "Needs glasses but thinks they look uncool.",
+      "Writes horoscopes for the crew.",
+      "Thinks the Big Dipper is a soup ladle.",
+      "Gets lost in the corridors constantly.",
+      "Believes he is guided by destiny.",
+      "Wears a cape.",
+      "Quotes Shakespeare incorrectly.",
+      "Is looking for the 'Second Star to the Right'.",
+      "Thinks black holes are just goth stars.",
+      "Sighs dramatically."
+    ],
+    "family": [
+        {
+            "name": "Stella",
+            "relation": "Sister",
+            "stories": [
+                "Is an actual astronomer.",
+                "Corrects Nova's star charts.",
+                "Think Nova is embarrassing.",
+                "Send him real telescopes."
+            ]
+        }
+    ],
+    "friends": []
+  },
+  {
+    "name": "Fuzzy",
+    "personality": "Actually a Bear",
+    "bio": "A bear that somehow got into a space suit. No one knows how he got here. He is surprisingly good at heavy lifting.",
+    "stories": [
+      "Just wants honey.",
+      "Roars at the control panel until things happen.",
+      "Uses the escape pod as a hibernation den.",
+      "Ate the manual.",
+      "Chased a laser pointer for 3 hours.",
+      "Is the ship's mascot.",
+      "Scratches his back on the airlock door.",
+      "Caught a fish in the hydroponics bay.",
+      "Thinks the enemies are bees.",
+      "Sleeps 18 hours a day.",
+      "Is a good boy."
+    ],
+    "family": [],
+    "friends": [
+        {
+            "name": "Keeper",
+            "relation": "Handler",
+            "stories": [
+                "The only one who can calm Fuzzy down.",
+                "Brings fresh salmon.",
+                "Understanding the roaring.",
+                "Brushes Fuzzy's fur."
+            ]
+        }
+    ]
+  },
+  {
+    "name": "Unit 01",
+    "personality": "Sentient Glitch",
+    "bio": "A software bug that gained consciousness. It flickers in and out of reality. It likes to mess with the ship's lighting.",
+    "stories": [
+      "Thinks the universe is written in Python.",
+      "Fears the 'Blue Screen of Death'.",
+      "Can teleport short distances (lag).",
+      "Speaks in error codes.",
+      "Tries to debug reality.",
+      "Hates magnets.",
+      "Is searching for the 'Admin'.",
+      "Can crash the simulation if he thinks too hard.",
+      "Walks through walls occasionally.",
+      "Has pixelated hands.",
+      "Is buffering."
+    ],
+    "family": [],
+    "friends": [
+        {
+            "name": "Glitch 02",
+            "relation": "Sibling",
+            "stories": [
+                "Another bug.",
+                "They corrupt data together.",
+                "Communicate via binary packet loss.",
+                "Is more unstable than Unit 01."
+            ]
+        }
+    ]
+  },
+  {
+    "name": "Gus",
+    "personality": "Trucker",
+    "bio": "Drives the mothership like it's an 18-wheeler. He has fuzzy dice in the cockpit and drinks thick coffee. Good at hauling cargo.",
+    "stories": [
+      "Honks the horn at passing comets.",
+      "Wears a trucker hat over his helmet.",
+      "Complains about 'space traffic'.",
+      "Has a wandering eye for nice nebulas.",
+      "Eats greasy diner food from a tube.",
+      "Listens to space-country radio.",
+      "Has a collection of mudflaps.",
+      "Refuses to ask for directions.",
+      "Thinks hyperspace is 'the fast lane'.",
+      "Calls everyone 'Good Buddy'.",
+      " Sleeps in the cab."
+    ],
+    "family": [
+      {
+        "name": "Ma", 
+        "relation": "Mother", 
+        "stories": [
+          "Makes the best diner food in the galaxy.",
+          "Runs a truck stop on Saturn.",
+          "Taxes anyone who doesn't finish their plate.",
+          "Misses her baby boy.",
+          "Knits seat covers."
+        ]
+      }
+    ],
+    "friends": []
+  },
+  {
+    "name": "Pip",
+    "personality": "Small",
+    "bio": "So small he has to jump to reach the buttons. He is fierce but adorable. People often mistake him for a child.",
+    "stories": [
+      "Got lost in a vent for 3 days.",
+      "Uses a booster seat in the cockpit.",
+      "Is constantly underestimated.",
+      "Bites ankles.",
+      "Has a high pitched voice.",
+      "Rides on Fuzzy's shoulder.",
+      "Is the best at hide and seek.",
+      "Can fit in the torpedo tube.",
+      "Hates being patted on the head.",
+      "Startles easily.",
+      "Is actually 40 years old."
+    ],
+    "family": [],
+    "friends": [
+        {
+            "name": "Biggs",
+            "relation": "Bodyguard",
+            "stories": [
+                "Carries Pip around.",
+                "Reaches the high shelves.",
+                "Protects Pip from bullies.",
+                "Thinks Pip is the boss."
+            ]
+        }
+    ]
+  },
+  {
+    "name": "Sarge",
+    "personality": "Drill Sergeant",
+    "bio": "Yells. A lot. He believes volume equals authority. He shines his boots until they are invisible.",
+    "stories": [
+      "Yelled at a black hole and it shrank.",
+      "Polishes his boots with stardust.",
+      "Sleeps at attention.",
+      "Refuses to blink.",
+      "Eats raw eggs, shell and all.",
+      "Thinks pain is just weakness leaving the body.",
+      "Can motivate a rock to move.",
+      "Has a buzzcut underneath his helmet.",
+      "Inspects dust motes.",
+      "Is actually very lonely.",
+      "Writes poetry that is also yelling."
+    ],
+    "family": [
+        {
+            "name": "Private P",
+            "relation": "Son",
+            "stories": [
+                "Is terrified of Sarge.",
+                "Trying to live up to the legacy.",
+                "Is actually a gentle soul.",
+                "Sarge secretly loves him."
+            ]
+        }
+    ],
+    "friends": []
+  },
+  {
+      "name": "Zero",
+      "personality": "Nihilist",
+      "bio": "Believes nothing matters. Fights because it's something to do. Stares into the void, and the void ignores him.",
+      "stories": [
+          "Sighs when the alarm goes off.",
+          "Does not bother dodging.",
+          "Says 'We are all dust' as a greeting.",
+          "Refuses to celebrate victories.",
+          "Thinks the universe is a simulation (he's right).",
+          "Reads philosophy in the dark.",
+          "Has no fear because he has no hope.",
+          "Is surprisingly efficient.",
+          "Monologues about entropy.",
+          "Wears all black.",
+          "Is fun at parties (not)."
+      ],
+      "family": [],
+      "friends": []
+  },
+    {
+      "name": "Bolt",
+      "personality": "Speedster",
+      "bio": "Gotta go fast. Can't sit still. Vibrates at a high frequency. Drinks rocket fuel.",
+      "stories": [
+          "Completed a lap around the ship in 2 minutes.",
+          "Talks so fast no one understands him.",
+          "Crashed into a wall... twice.",
+          "Outran a laser beam (he claims).",
+          "Taps his foot constantly.",
+          "Gets bored during briefings.",
+          "Is the first one to the mess hall.",
+          "Wears red because it's faster.",
+          "Has a racing stripe on his helmet.",
+          "Shadowboxes invisible enemies.",
+          "Is exhausting to be around."
+      ],
+      "family": [],
+      "friends": []
+  }
+]
